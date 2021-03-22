@@ -129,7 +129,7 @@ export default {
 
       ul {
         p {
-          margin: 0 5px;
+          margin: 0 10px !important;
         }
 
         li {
